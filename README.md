@@ -40,7 +40,7 @@ Template code is provided in the notebook `Titanic-Survival-Prediction.ipynb` no
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `our dir/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Titanic-Survival-Prediction/` (that contains this README) and run one of the following commands:
 
 ```bash
 jupyter notebook titanic_survival_exploration.ipynb
