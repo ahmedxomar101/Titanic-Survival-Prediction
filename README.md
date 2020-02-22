@@ -30,8 +30,8 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 This project contains two files:
 
-- `titanic_survival_exploration.ipynb`: This is the main file where you will be performing your work on the project.
-- `titanic_data.csv`: The project dataset. You?ll load this data in the notebook.
+- `titanic_survival_exploration.ipynb`: This is the main file where you find all the work on the project.
+- `titanic_data.csv`: The project dataset. Which is loaded in the notebook.
 
 
 ### Code
